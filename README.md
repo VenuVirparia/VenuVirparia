@@ -8,7 +8,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 - 🌱 I'm passionate about software development and love working on projects that challenge me to learn and grow.
 - 💡 I recently participated in a hackathon where I developed an innovative image processor.
-- 🔍 Currently, I'm delving deep into the exciting world of Artificial Intelligence, exploring its applications in various domains and actively learning new concepts and techniques.
+- 🔍 Currently, I'm delving deep into the exciting world of Cloud Computing, exploring its applications in various domains and actively learning new concepts and techniques.
 
 
 ## Projects
