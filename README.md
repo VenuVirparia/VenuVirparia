@@ -47,7 +47,7 @@ Feel free to explore my repositories to see more of my work!
 
 ### Miscellaneous
 ![](https://skillicons.dev/icons?i=md,aws&perline=11&theme=dark)
-</details>
+<!-- </details> -->
 
 
 <!-- <details>
