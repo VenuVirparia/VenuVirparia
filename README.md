@@ -6,12 +6,12 @@
 
 Welcome to my GitHub profile! Here's a bit about me:
 
-- 🌱 I'm passionate about software development and love working on projects that challenge me to learn and grow.
-- 💡 I recently participated in a hackathon where I developed an innovative image processor.
-- 🔍 Currently, I'm delving deep into the exciting world of Cloud Computing, exploring its applications in various domains and actively learning new concepts and techniques.
+- 👩🏻‍💻 I'am a pre-final year engineering student and enjoy building projects that push my limits.
+- 💡 Developed an innovative image processor as part of a hackathon.
+- 🔍 Currently diving deep into Machine Learning and Cloud Computing.
 
 
-## Projects
+<!--## Projects
 
 <details>
   <summary> Image Processor </summary>
@@ -34,24 +34,23 @@ Welcome to my GitHub profile! Here's a bit about me:
 Feel free to explore my repositories to see more of my work!
 
 <details>
-  <summary>
+  <summary>-->
     
 ## Skills
-___
-</summary>
+<!-- </summary> -->
 
 ### Languages
-![](https://skillicons.dev/icons?i=c,cpp,java,html,css,js&perline=11&theme=dark)
+![](https://skillicons.dev/icons?i=c,cpp,py,java,html,css,js&perline=11&theme=dark)
 
 ### Databases
 ![](https://skillicons.dev/icons?i=mysql,postgres&perline=11&theme=dark)
 
 ### Miscellaneous
-![](https://skillicons.dev/icons?i=md&perline=11&theme=dark)
+![](https://skillicons.dev/icons?i=md,aws&perline=11&theme=dark)
 </details>
 
 
-<details>
+<!-- <details>
   <summary>
     
 ## 📊 GitHub Commit Stats 
@@ -65,7 +64,7 @@ This section provides insights into my GitHub activity.
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=flute-v&theme=dark">&nbsp;&nbsp;
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=flute-v&theme=dark">
 </div>
-</details>
+</details> -->
 
 ## Get in Touch
 
