@@ -25,6 +25,8 @@ A secure campus reselling platform offering:
 - Search and product categorization  
 - Real-time chat with WebSockets
 
+  [Demo](https://drive.google.com/file/d/1RnacIhkwju0lFp-iG7TfbVP8FpRYwolU/view?usp=drive_link)
+
 **Tech Stack:** React, Spring Boot, MySQL, WebSockets, AWS
 
 
