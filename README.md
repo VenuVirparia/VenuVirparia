@@ -7,64 +7,56 @@
 Welcome to my GitHub profile! Here's a bit about me:
 
 - 👩🏻‍💻 I'am a pre-final year engineering student and enjoy building projects that push my limits.
-- 💡 Developed an innovative image processor as part of a hackathon.
-- 🔍 Currently diving deep into Machine Learning and Cloud Computing.
-
-
-<!--## Projects
+- 🔍 Currently diving deep into SpringBoot, Machine Learning and Cloud Computing.
 
 <details>
-  <summary> Image Processor </summary>
-  This innovative image processor, built with HTML, CSS, and JavaScript, tackles your image management struggles. Forget juggling separate tools for format conversion and compression - this user-friendly solution seamlessly handles both tasks in one go. Convert and compress your images with ease, saving you valuable time and storage space.<br><br>
+  <summary>
+    
+   ## 🚀 Recent Projects
+   ## 
   
-  [Check out the website](https://nandrabadiya.github.io/Image-Processor/) <br>
-  [See Repository](https://github.com/flute-v/Image-Processor)<br>
+  </summary>
+  <br/>
+
+### 🔹 [CollegeDealz ↗](https://github.com/VenuVirparia/College-Dealz) <sub><i>(2024–25)</i></sub>
+
+A secure campus reselling platform offering:
+- *Wantlist* feature – buyers post needs first, flipping the traditional trade flow
+- Search and product categorization  
+- Real-time chat with WebSockets
+
+**Tech Stack:** React, Spring Boot, MySQL, WebSockets, AWS
+
+
+### 🔹 [KaaryaHUB ↗](https://github.com/VenuVirparia/KaaryaHUB) <sub><i>(2024–25)</i></sub>
+
+A project management platform for students with:
+- Task tracking and assignment  
+- Role-based member management  
+- Collaboration through integrated chat
+
+**Tech Stack:** React, Spring Boot, MySQL, RazorPay API
+
 </details>
 
-<details>
-  <summary>Smart City Management System</summary>  
-  A Database Management System that tackles the challenges of modern city life by building a central data hub. Imagine a system that streamlines traffic flow, optimizes energy use, and connects residents to vital services - all powered by PostgreSQL, a powerful relational database.
-</details>
+## 
 
-<details>
-  <summary>Hungry Birds</summary>  
-  It isn't your average static website. It's a vibrant online community that awakens your inner chef! Dive into delicious recipes, explore engaging food blogs, and discover captivating short cooking videos - all beautifully presented with the magic of HTML, CSS, and JavaScript.
-</details>
-
-Feel free to explore my repositories to see more of my work!
-
-<details>
-  <summary>-->
     
 ## Skills
 <!-- </summary> -->
 
-### Languages
-![](https://skillicons.dev/icons?i=c,cpp,py,java,html,css,js&perline=11&theme=dark)
+### Languages  
+<a href="https://github.com/VenuVirparia/"><img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,js,md&perline&theme=dark" /></a>
 
-### Databases
-![](https://skillicons.dev/icons?i=mysql,postgres&perline=11&theme=dark)
+### Libraries & Frameworks  
+<img width="48" height="48" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="springboot"/></a><a href="https://github.com/VenuVirparia/"><img src="https://skillicons.dev/icons?i=react&perline=11&theme=dark" /></a><a href="https://github.com/VenuVirparia/"><img width="48" height="48" src="https://img.icons8.com/?size=100&id=bpip0gGiBLT1&format=png&color=000000" alt="opencv"/></a><a href="https://github.com/VenuVirparia/">
 
-### Miscellaneous
-![](https://skillicons.dev/icons?i=md,aws&perline=11&theme=dark)
-<!-- </details> -->
+### 🧑🏻‍💻 Tools & Platforms  
+<a href="https://github.com/VenuVirparia/"><img src="https://skillicons.dev/icons?i=git,github,aws,linux,eclipse,vscode,idea&perline=12&theme=dark" /></a><a href="https://github.com/VenuVirparia/"><img width="48" height="48" src="https://img.icons8.com/color/48/google-colab.png" alt="google-colab"/></a><a href="https://github.com/VenuVirparia/"><img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/></a><a href="https://github.com/VenuVirparia/"><img width="48" height="48" src="https://img.icons8.com/fluency/48/000000/virtualbox--v2.png" alt="virtualbox--v2"/></a>
 
+### Databases  
+<a href="https://github.com/VenuVirparia/"><img src="https://skillicons.dev/icons?i=mysql,postgres&perline=11&theme=dark" /></a>
 
-<!-- <details>
-  <summary>
-    
-## 📊 GitHub Commit Stats 
-____
-</summary>
-
-This section provides insights into my GitHub activity.
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flute-v&theme=dark"><br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=flute-v&theme=dark">&nbsp;&nbsp;
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=flute-v&theme=dark">
-</div>
-</details> -->
 
 ## Get in Touch
 
