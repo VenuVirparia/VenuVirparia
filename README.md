@@ -7,7 +7,7 @@
 Welcome to my GitHub profile! Here's a bit about me:
 
 - 👩🏻‍💻 I'am a pre-final year engineering student and enjoy building projects that push my limits.
-- 🔍 Currently diving deep into SpringBoot, Machine Learning and Cloud Computing.
+- 🔍 Currently diving deep into SpringBoot, React, Machine Learning and Cloud Computing.
 
 <details>
   <summary>
@@ -18,12 +18,21 @@ Welcome to my GitHub profile! Here's a bit about me:
   </summary>
   <br/>
 
+### 🔹 [WealthVerse ↗](https://github.com/NandRabadiya/WealthVerse) <sub><i>(2025)</i></sub>
+- Auto-categorized transactions using merchant mapping with custom overrides for local merchant
+- Calculated CO2 emissions per category via backend carbon factors
+ - Visualized monthly category-wise insights via pie charts
+ - Delivered scalable dashboard using paginated APIs, deployed full-stack on AWS
+
+  [Demo](https://drive.google.com/file/d/1HlXDP2OyA0qzbY1eB833b1eaX9GyXkTp/view?usp=drive_link)
+
+**Tech Stack:** React, Spring Boot, MySQL, Python, AWS
+
 ### 🔹 [CollegeDealz ↗](https://github.com/VenuVirparia/College-Dealz) <sub><i>(2024–25)</i></sub>
 
-A secure campus reselling platform offering:
-- *Wantlist* feature – buyers post needs first, flipping the traditional trade flow
-- Search and product categorization  
-- Real-time chat with WebSockets
+ - Acommunity based secure reselling platform with wishlist, search/sort filters, and JWT auth
+ - Developed ”Wantlist” feature to post buying needs and trigger real-time product match alerts
+ - Integrated 1:1 WebSocket chat and domain-based community access
 
   [Demo](https://drive.google.com/file/d/1RnacIhkwju0lFp-iG7TfbVP8FpRYwolU/view?usp=drive_link)
 
@@ -32,10 +41,9 @@ A secure campus reselling platform offering:
 
 ### 🔹 [KaaryaHUB ↗](https://github.com/VenuVirparia/KaaryaHUB) <sub><i>(2024–25)</i></sub>
 
-A project management platform for students with:
-- Task tracking and assignment  
-- Role-based member management  
-- Collaboration through integrated chat
+ - Built a collaborative tool for students with task tracking and assignment workflows for each project
+ - Integrated Redux for global state and in-app group chat to enable seamless team communication
+ - Enable a subscription plan feature using Razorpay API
 
 **Tech Stack:** React, Spring Boot, MySQL, RazorPay API
 
